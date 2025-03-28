@@ -7,7 +7,7 @@ informacion_personal = {
 }
 
 # 2. Modificar el valor de la clave "ciudad"
-informacion_personal["ciudad"] = "Colombia"
+informacion_personal["ciudad"] = "Mexico"
 
 # 3. Agregar una nueva clave-valor al diccionario ("hobby")
 informacion_personal["hobby"] = "Bailar"
