@@ -1,13 +1,14 @@
 # 1. Crear un diccionario con información ficticia
 informacion_personal = {
     "nombre": "Laura Sofia",
+    "apellido": "Gomez Torres",
     "edad": 25,
-    "ciudad": "Colombia",
+    "ciudad": "Bogota",
     "profesion": "Periodista"
 }
 
 # 2. Modificar el valor de la clave "ciudad"
-informacion_personal["ciudad"] = "Mexico"
+informacion_personal["ciudad"] = "Medellin"
 
 # 3. Agregar una nueva clave-valor al diccionario ("hobby")
 informacion_personal["hobby"] = "Bailar"
