@@ -1,0 +1,3 @@
+En mi archivo voy a emepzar a escribir mi primera nota.
+Ahora estoy conociendo mas de python escrbiendo mi segunda nota.
+Terminar mi tercera nota cerrando el archivo correctamente.
